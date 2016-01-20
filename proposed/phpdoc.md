@@ -204,7 +204,7 @@ interpreted as described in [RFC 2119][RFC2119].
 * "Semantic Version" refers to the definition as set in the [Semantic Versioning
   Specification 2.0.0][SEMVER2].
 
-* "FQSEN" is an abbreviation for Fully Qualified Structural Element Name. This
+* The acronym "FQSEN" stands for Fully Qualified Structural Element Name. This
   notation expands on the Fully Qualified Class Name and adds a notation to
   identify class/interface/trait members and re-apply the principles of the FQCN
   to Interfaces, Traits, Functions and global Constants.
@@ -221,7 +221,7 @@ interpreted as described in [RFC 2119][RFC2119].
   *Property*:       `\My\Space\MyClass::$my_property`
   *Class Constant*: `\My\Space\MyClass::MY_CONSTANT`
 
-  A FQSEN has the following [ABNF][RFC5234]
+  An FQSEN has the following [ABNF][RFC5234]
   definition:
 
           FQSEN    = fqnn / fqcn / constant / method / property  / function
