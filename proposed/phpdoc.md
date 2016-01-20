@@ -330,8 +330,7 @@ to provide formatting and a clear way of representing code examples.
 Common uses for the Description are (amongst others):
 
 * To provide more detail than the Summary on what this method does.
-* To specify of what child elements an input or output array, or object, is
-  composed.
+* To specify what elements an input or output array or object contains.
 * To provide a set of common use cases or scenarios in which the
   "Structural Element" may be applied.
 
